@@ -1,5 +1,5 @@
 module DemoPackageKaining
 
-# Write your package code here.
+printgreetings() = print("Hello world!")
 
 end
