@@ -3,6 +3,9 @@ uuid = "342f6d50-fe79-4e3e-9719-40adacde1232"
 authors = ["kalfton <36215989+kalfton@users.noreply.github.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1"
 
