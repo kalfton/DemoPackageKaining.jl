@@ -1,5 +1,5 @@
 module DemoPackageKaining
 
-printgreetings() = print("Hello world!")
+print_greeting() = printstyled("Hello, world!"; color=:magenta)
 
 end
